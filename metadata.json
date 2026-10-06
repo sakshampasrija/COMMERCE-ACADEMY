@@ -1,0 +1,6 @@
+{
+  "name": "ClassFlow Kinetic Commerce",
+  "description": "Academic SaaS operations platform for Class 11 & 12 Commerce educators, batch scheduling, rapid attendance, fee ledgers, and real-time updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
